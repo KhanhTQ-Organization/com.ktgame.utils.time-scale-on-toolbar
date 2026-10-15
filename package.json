@@ -1,12 +1,12 @@
 {
   "name": "com.ktgame.utils.time-scale-on-toolbar",
-  "version": "1.0.7",
-  "displayName": "com.ktgame.utils.time-scale-on-toolbar",
-  "description": "Time Scale On Toolbar",
+  "version": "1.0.8",
+  "displayName": "Time Scale On Toolbar",
+  "description": "Compact and sleek TimeScale controller on Unity Toolbar with smart pause, fast-forward audio protection, custom slider popup, and in-game mobile QA debug overlay.",
   "author": {
     "name": "ktgame",
     "email": "khanhquang0912qh@gmail.com",
-    "url": "https://github.com/KhanhTQ-hub/com.ktgame.utils.class-type-reference"
+    "url": "https://github.com/KhanhTQ-Organization/com.ktgame.utils.time-scale-on-toolbar"
   },
   "publishConfig": {
     "registry": "http://3.25.115.5:4873"
